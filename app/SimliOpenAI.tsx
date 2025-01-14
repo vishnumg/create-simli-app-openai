@@ -59,8 +59,9 @@ const SimliOpenAI: React.FC<SimliOpenAIProps> = ({
         handleSilence: true,
         maxSessionLength: 6000, // in seconds
         maxIdleTime: 6000, // in seconds
-        videoRef: videoRef,
-        audioRef: audioRef,
+        videoRef: videoRef.current,
+        audioRef: audioRef.current,
+        enableConsoleLogs: true,
       };
 
       simliClient.Initialize(SimliConfig as any);
@@ -393,9 +394,6 @@ const SimliOpenAI: React.FC<SimliOpenAIProps> = ({
     if (simliClient) {
       simliClient?.on("connected", () => {
         console.log("SimliClient connected");
-        const audioData = new Uint8Array(6000).fill(0);
-        simliClient?.sendAudioData(audioData);
-        console.log("Sent initial audio data");
         // Initialize OpenAI client
         initializeOpenAIClient();
       });
