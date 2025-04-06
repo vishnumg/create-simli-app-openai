@@ -1,11 +1,9 @@
-import React, { useCallback, useEffect, useRef, useState } from "react";
+import IconSparkleLoader from "@/media/IconSparkleLoader";
 import { RealtimeClient } from "@openai/realtime-api-beta";
+import React, { useCallback, useRef, useState } from "react";
 import { SimliClient } from "simli-client";
 import VideoBox from "./Components/VideoBox";
 import cn from "./utils/TailwindMergeAndClsx";
-import IconExit from "@/media/IconExit";
-import IconSparkleLoader from "@/media/IconSparkleLoader";
-import { on } from "events";
 
 interface SimliOpenAIProps {
   simli_faceid: string;
