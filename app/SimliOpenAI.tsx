@@ -7,7 +7,7 @@ import cn from "./utils/TailwindMergeAndClsx";
 
 interface SimliOpenAIProps {
   simli_faceid: string;
-  openai_voice: "alloy"|"ash"|"ballad"|"coral"|"echo"|"sage"|"shimmer"|"verse";
+  openai_voice: "alloy" | "ash" | "ballad" | "coral" | "echo" | "sage" | "shimmer" | "verse";
   openai_model: string;
   initialPrompt: string;
   onStart: () => void;
@@ -103,7 +103,7 @@ const SimliOpenAI: React.FC<SimliOpenAIProps> = ({
       );
       // openAIClientRef.current.on('response.canceled', handleResponseCanceled);
 
-      
+
       await openAIClientRef.current.connect().then(() => {
         console.log("OpenAI Client connected successfully");
         openAIClientRef.current?.createResponse();
@@ -354,8 +354,8 @@ const SimliOpenAI: React.FC<SimliOpenAIProps> = ({
     try {
       console.log("Starting...");
       initializeSimliClient();
-      await simliClient?.start();
       eventListenerSimli();
+      await simliClient?.start();
     } catch (error: any) {
       console.error("Error starting interaction:", error);
       setError(`Error starting interaction: ${error.message}`);
@@ -409,9 +409,8 @@ const SimliOpenAI: React.FC<SimliOpenAIProps> = ({
   return (
     <>
       <div
-        className={`transition-all duration-300 ${
-          showDottedFace ? "h-0 overflow-hidden" : "h-auto"
-        }`}
+        className={`transition-all duration-300 ${showDottedFace ? "h-0 overflow-hidden" : "h-auto"
+          }`}
       >
         <VideoBox video={videoRef} audio={audioRef} />
       </div>

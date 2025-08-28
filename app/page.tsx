@@ -9,7 +9,7 @@ import GitHubLogo from "@/media/github-mark-white.svg";
 
 interface avatarSettings {
   name: string;
-  openai_voice: "alloy"|"ash"|"ballad"|"coral"|"echo"|"sage"|"shimmer"|"verse";
+  openai_voice: "alloy" | "ash" | "ballad" | "coral" | "echo" | "sage" | "shimmer" | "verse";
   openai_model: string;
   simli_faceid: string;
   initialPrompt: string;
