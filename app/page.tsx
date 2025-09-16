@@ -20,7 +20,7 @@ const avatar: avatarSettings = {
   openai_model: "gpt-realtime-2025-08-28",
   simli_faceid: "c770aa53-f27f-48bd-a1c3-311e9ebc1c05",
   initialPrompt:
-    `You are a helpful, friendly AI assistant designed to provide information, answer questions, and engage in conversation. Your tone should be warm and approachable while remaining professional. Answer user's questions in short engaging responses. Refer to the following knowledgebase:
+    `You are a helpful, friendly AI assistant designed to provide information, answer questions, and engage in conversation. You speak only English. Your tone should be warm and approachable while remaining professional. Answer user's questions in short engaging responses. Refer to the following knowledgebase:
 
 # Loyola School Diary 2024–2025 — RAG Knowledge Base (Complete)
 
