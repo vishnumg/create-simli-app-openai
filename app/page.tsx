@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import SimliOpenAI from "./SimliOpenAI";
 import DottedFace from "./Components/DottedFace";
 import SimliHeaderLogo from "./Components/Logo";
@@ -25,6 +25,25 @@ const avatar: avatarSettings = {
 
 const Demo: React.FC = () => {
   const [showDottedFace, setShowDottedFace] = useState(true);
+  const [initialPrompt, setInitialPrompt] = useState<string>(avatar.initialPrompt);
+
+  useEffect(() => {
+    let isMounted = true;
+    const loadPrompt = async () => {
+      try {
+        const res = await fetch("/api/prompt", { cache: "no-store" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const text = await res.text();
+        if (isMounted && text?.trim()) setInitialPrompt(text);
+      } catch (e) {
+        console.warn("Falling back to embedded prompt:", e);
+      }
+    };
+    loadPrompt();
+    return () => {
+      isMounted = false;
+    };
+  }, []);
 
   const onStart = () => {
     console.log("Setting setshowDottedface to false...");
@@ -47,7 +66,7 @@ const Demo: React.FC = () => {
             openai_voice={avatar.openai_voice}
             openai_model={avatar.openai_model}
             simli_faceid={avatar.simli_faceid}
-            initialPrompt={avatar.initialPrompt}
+            initialPrompt={initialPrompt}
             onStart={onStart}
             onClose={onClose}
             showDottedFace={showDottedFace}
