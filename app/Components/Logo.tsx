@@ -2,7 +2,6 @@
 import Image from 'next/image';
 import { usePathname, useRouter } from 'next/navigation';
 import React from 'react';
-import logo from '@/media/SimliLogoV2.svg';
 import cn from '@/app/utils/TailwindMergeAndClsx';
 
 interface Props {
@@ -15,7 +14,7 @@ const SimliHeaderLogo = ({ className, children }: Props) => {
   const pathname = usePathname();
 
   const handleClick = async () => {
-    console.log('Clicked Simli logo', pathname);
+    console.log('Clicked Loyola logo', pathname);
     if (pathname === '/') {
       window.location.reload();
       return;
@@ -25,7 +24,8 @@ const SimliHeaderLogo = ({ className, children }: Props) => {
 
   return (
     <div className={cn('fixed top-[32px] left-[32px] cursor-pointer', className)} onClick={handleClick}>
-      <Image src={logo} className='Logo' alt='Simli logo' />
+      {/** Using public/logo.png for Loyola School branding */}
+      <Image src={'/logo.png'} width={48} height={48} className='Logo' alt='Loyola School logo' />
     </div>
   );
 };

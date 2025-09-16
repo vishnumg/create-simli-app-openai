@@ -1,11 +1,9 @@
 "use client";
-import React, { use, useEffect, useState } from "react";
+import React, { useState } from "react";
 import SimliOpenAI from "./SimliOpenAI";
 import DottedFace from "./Components/DottedFace";
 import SimliHeaderLogo from "./Components/Logo";
-import Navbar from "./Components/Navbar";
-import Image from "next/image";
-import GitHubLogo from "@/media/github-mark-white.svg";
+// Image import removed; no images used directly on this page
 
 interface avatarSettings {
   name: string;
@@ -17,12 +15,12 @@ interface avatarSettings {
 
 // Customize your avatar here
 const avatar: avatarSettings = {
-  name: "Frank",
+  name: "Loyola Assistant",
   openai_voice: "echo",
-  openai_model: "gpt-4o-mini-realtime-preview-2024-12-17", // Use "gpt-4o-mini-realtime-preview-2024-12-17" for cheaper and faster responses
-  simli_faceid: "6ebf0aa7-6fed-443d-a4c6-fd1e3080b215",
+  openai_model: "gpt-realtime-2025-08-28",
+  simli_faceid: "b1f6ad8f-ed78-430b-85ef-2ec672728104",
   initialPrompt:
-    "You are a helpful AI assistant named Frank. You are friendly and concise in your responses. Your task is to help users with any questions they might have. Your answers are short and to the point, don't give long answers be brief and straightforward.",
+    "You are the Loyola School virtual assistant. Be warm, concise, and helpful. You can answer questions about Loyola School including admissions, academics, campus life, and contact information. Keep answers short and straightforward unless asked to elaborate.",
 };
 
 const Demo: React.FC = () => {
@@ -41,19 +39,8 @@ const Demo: React.FC = () => {
   return (
     <div className="bg-black min-h-screen flex flex-col items-center font-abc-repro font-normal text-sm text-white p-8">
       <SimliHeaderLogo />
-      <Navbar />
-      <div className="absolute top-[32px] right-[32px]">
-        <text
-          onClick={() => {
-            window.open("https://github.com/simliai/create-simli-app-openai");
-          }}
-          className="font-bold cursor-pointer mb-8 text-xl leading-8"
-        >
-          <Image className="w-[20px] inline mr-2" src={GitHubLogo} alt="" />
-          create-simli-app (OpenAI)
-        </text>
-      </div>
-      <div className="flex flex-col items-center gap-6 bg-effect15White p-6 pb-[40px] rounded-xl w-full">
+      {/* Top-right area intentionally left blank for Loyola site (remove Simli GitHub link) */}
+      <div className="flex flex-col items-center gap-6 bg-effect15White p-6 pb-[40px] rounded-xl w-full max-w-[1200px]">
         <div>
           {showDottedFace && <DottedFace />}
           <SimliOpenAI
@@ -66,31 +53,6 @@ const Demo: React.FC = () => {
             showDottedFace={showDottedFace}
           />
         </div>
-      </div>
-
-      <div className="max-w-[350px] font-thin flex flex-col items-center ">
-        <span className="font-bold mb-[8px] leading-5 ">
-          {" "}
-          Create Simli App is a starter repo for creating visual avatars with
-          Simli{" "}
-        </span>
-        <ul className="list-decimal list-inside max-w-[350px] ml-[6px] mt-2">
-          <li className="mb-1">
-            Fill in your OpenAI and Simli API keys in .env file.
-          </li>
-          <li className="mb-1">
-            Test out the interaction and have a talk with the OpenAI-powered,
-            Simli-visualized avatar.
-          </li>
-          <li className="mb-1">
-            You can replace the avatar's face and prompt with your own. Do this
-            by editing <code>app/page.tsx</code>.
-          </li>
-        </ul>
-        <span className=" mt-[16px]">
-          You can now deploy this app to Vercel, or incorporate it as part of
-          your existing project.
-        </span>
       </div>
     </div>
   );
