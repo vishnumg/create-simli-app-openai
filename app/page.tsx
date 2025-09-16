@@ -40,7 +40,7 @@ const Demo: React.FC = () => {
     <div className="bg-black min-h-screen flex flex-col items-center font-abc-repro font-normal text-sm text-white p-8">
       <SimliHeaderLogo />
       {/* Top-right area intentionally left blank for Loyola site (remove Simli GitHub link) */}
-      <div className="flex flex-col items-center gap-6 bg-effect15White p-6 pb-[40px] rounded-xl w-full max-w-[1200px]">
+      <div className="flex flex-col items-center gap-6 bg-effect15White p-4 md:p-6 pb-[40px] rounded-xl w-full max-w-[1700px]">
         <div>
           {showDottedFace && <DottedFace />}
           <SimliOpenAI
