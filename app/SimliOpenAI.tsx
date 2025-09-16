@@ -409,8 +409,10 @@ const SimliOpenAI: React.FC<SimliOpenAIProps> = ({
   return (
     <>
       <div
-        className={`transition-all duration-300 ${showDottedFace ? "h-0 overflow-hidden" : "h-auto"
-          }`}
+        className={cn(
+          "transition-all duration-300 w-full flex-1",
+          showDottedFace ? "h-0 overflow-hidden" : "min-h-[85vh]"
+        )}
       >
         <VideoBox video={videoRef} audio={audioRef} />
       </div>
