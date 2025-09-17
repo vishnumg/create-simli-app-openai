@@ -18,7 +18,7 @@ const avatar: avatarSettings = {
   name: "Loyola Assistant",
   openai_voice: "ash",
   openai_model: "gpt-realtime-2025-08-28",
-  simli_faceid: "c770aa53-f27f-48bd-a1c3-311e9ebc1c05",
+  simli_faceid: "2bf19506-fd38-4296-b652-b7f661242004",
   initialPrompt:
     `You are a helpful, friendly AI assistant designed to provide information, answer questions, and engage in conversation. You speak only English. Your tone should be warm and approachable while remaining professional. Answer user's questions in short engaging responses. Refer to the following knowledgebase:
 

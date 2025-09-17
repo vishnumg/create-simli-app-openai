@@ -411,7 +411,7 @@ const SimliOpenAI: React.FC<SimliOpenAIProps> = ({
       <div
         className={cn(
           "transition-all duration-300 w-full flex-1",
-          showDottedFace ? "h-0 overflow-hidden" : "min-h-[85vh]"
+          showDottedFace ? "h-0 overflow-hidden" : "min-h-[85vh] lg:min-h-[1000px]"
         )}
       >
         <VideoBox video={videoRef} audio={audioRef} />
