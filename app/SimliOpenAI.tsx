@@ -422,8 +422,12 @@ const SimliOpenAI: React.FC<SimliOpenAIProps> = ({
             onClick={handleStart}
             disabled={isLoading}
             className={cn(
-              "w-full h-[52px] mt-4 disabled:bg-[#343434] disabled:text-white disabled:hover:rounded-[100px] bg-simliblue text-white py-3 px-6 rounded-[100px] transition-all duration-300 hover:text-black hover:bg-white hover:rounded-sm",
-              "flex justify-center items-center"
+              // glassmorphism start button
+              "w-full h-[52px] mt-4 py-3 px-6 rounded-full text-white flex justify-center items-center",
+              "bg-white/10 backdrop-blur-lg border border-white/10 shadow-[0_8px_30px_rgba(0,0,0,0.35)]",
+              "hover:bg-white/20 hover:ring-1 hover:ring-white/20 transition-all duration-300",
+              "active:scale-[0.99] focus:outline-none focus-visible:ring-2 focus-visible:ring-white/40",
+              "disabled:opacity-50 disabled:cursor-not-allowed"
             )}
           >
             {isLoading ? (
@@ -440,7 +444,11 @@ const SimliOpenAI: React.FC<SimliOpenAIProps> = ({
               <button
                 onClick={handleStop}
                 className={cn(
-                  "mt-4 group text-white flex-grow bg-red hover:rounded-sm hover:bg-white h-[52px] px-6 rounded-[100px] transition-all duration-300"
+                  // glassmorphism stop button
+                  "mt-4 group text-white flex-grow h-[52px] px-6 rounded-full transition-all duration-300",
+                  "bg-white/10 backdrop-blur-lg border border-white/10 shadow-[0_8px_30px_rgba(0,0,0,0.35)]",
+                  "hover:bg-white hover:text-black hover:ring-1 hover:ring-white/20",
+                  "active:scale-[0.99] focus:outline-none focus-visible:ring-2 focus-visible:ring-white/40"
                 )}
               >
                 <span className="font-abc-repro-mono group-hover:text-black font-bold w-[164px] transition-all duration-300">

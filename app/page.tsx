@@ -763,10 +763,20 @@ const Demo: React.FC = () => {
   };
 
   return (
-    <div className="bg-black min-h-screen flex flex-col items-center font-abc-repro font-normal text-sm text-white p-8">
+    <div className="bg-black min-h-screen flex flex-col items-center font-abc-repro font-normal text-sm text-white p-8 relative overflow-hidden">
+      {/* ambient gradient glow background */}
+      <div aria-hidden className="pointer-events-none absolute -top-40 -left-40 h-96 w-96 rounded-full bg-[radial-gradient(circle_at_center,rgba(99,102,241,0.35),transparent_60%)] blur-3xl"></div>
+      <div aria-hidden className="pointer-events-none absolute -bottom-40 -right-40 h-[28rem] w-[28rem] rounded-full bg-[radial-gradient(circle_at_center,rgba(16,185,129,0.35),transparent_60%)] blur-3xl"></div>
+
       <SimliHeaderLogo />
+
+      {/* Page heading */}
+      <h1 className="mt-4 mb-2 text-center text-2xl md:text-3xl lg:text-4xl font-abc-repro-mono font-bold tracking-tight">
+        Loyola Information Chatbot
+      </h1>
+
       {/* Top-right area intentionally left blank for Loyola site (remove Simli GitHub link) */}
-      <div className="flex flex-col items-center gap-6 bg-effect15White p-4 md:p-6 pb-[40px] rounded-xl w-full max-w-[1700px]">
+      <div className="flex flex-col items-center gap-6 w-full max-w-[1700px] p-4 md:p-6 pb-[40px] rounded-2xl border border-white/10 bg-white/10 backdrop-blur-xl shadow-[0_10px_40px_-10px_rgba(0,0,0,0.6)]">
         <div>
           {showDottedFace && <DottedFace />}
           <SimliOpenAI
