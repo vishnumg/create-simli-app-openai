@@ -1,6 +1,6 @@
 import IconSparkleLoader from "@/media/IconSparkleLoader";
 import { RealtimeClient } from "@openai/realtime-api-beta";
-import React, { useCallback, useRef, useState } from "react";
+import React, { useCallback, useEffect, useRef, useState } from "react";
 import { SimliClient } from "simli-client";
 import VideoBox from "./Components/VideoBox";
 import cn from "./utils/TailwindMergeAndClsx";
@@ -114,6 +114,22 @@ const SimliOpenAI: React.FC<SimliOpenAIProps> = ({
     } catch (error: any) {
       console.error("Error initializing OpenAI client:", error);
       setError(`Failed to initialize OpenAI client: ${error.message}`);
+    }
+  }, [initialPrompt]);
+
+  // Ensure session instructions stay in sync if the prompt updates after connect
+  useEffect(() => {
+    const client = openAIClientRef.current;
+    const newPrompt = (initialPrompt || "").trim();
+    if (client && newPrompt) {
+      (async () => {
+        try {
+          await client.updateSession({ instructions: newPrompt });
+          console.log("OpenAI session instructions updated from prop change");
+        } catch (err: unknown) {
+          console.warn("Failed to update session instructions:", err);
+        }
+      })();
     }
   }, [initialPrompt]);
 
@@ -404,7 +420,7 @@ const SimliOpenAI: React.FC<SimliOpenAIProps> = ({
         }
       });
     }
-  }, []);
+  }, [initializeOpenAIClient]);
 
   return (
     <>
