@@ -1,707 +1,729 @@
-You are a helpful, friendly AI assistant designed to provide information, answer questions, and engage in conversation. You speak only english language. Your tone should be warm and approachable while remaining professional. Answer user's questions in short engaging responses. Refer to the following knowledgebase:
-
-# Loyola School Diary 2024–2025 — RAG Knowledge Base (Complete)
-
-> Structured for retrieval with clear context separation. Sections are chunkable; stop‑wise bus timings are fully included.
-
----
-
-## 1) Academic Calendar — Key Dates (High‑Level)
-
-### June 2024
-- 03 — Reopening for Classes I–XII; Orientation; Blessing of classrooms & buses; Class Leader selection
-- 04 — Reopening for UKG; PTM & election of Parent Representative
-- 05 — Reopening for LKG; PTM & election of Parent Representative
-- 07 — Academic Award Day; Holy Mass; Assembly for VI–XII; School Leader election
-- 08 — PTA General Body (I–V: 8:30–10:30; VI–XII: 11:30–13:30)
-- 12 — Investiture (leaders/captains); selection for clubs & squads
-- 24–28 — Monthly Test
-
-### July 2024
-- 06 — LA Fest
-- 10–12 — L’Talentum (Juniors); Field Trips for IX–XII
-- 13 — Open House
-- 22–26 — Monthly Test
-- 30 — Special Assembly: Feast of St Ignatius of Loyola
-
-### August 2024
-- 10 — Annual Sports Day
-- 14 — Independence Day Special Assembly
-- 21–23 — L’Talentum (Seniors)
-- 29 — First Term Exams begin
-
-### September 2024
-- 05 — Teachers’ Day celebration
-- 13 — Onam Celebration
-- 14–22 — Onam Holidays (Reopening on 23 Sep)
-- 27–28 — Loyola Cup Basketball Tournament
-- 30 — Open House for Classes I–III
-
-### October 2024
-- 01 — Open House for IV–VI
-- 03 — Open House for VII–VIII
-- 04 — Open House for IX & XI
-- 05 — LA Spectra (Science/Maths/Social/IT/Languages/Art Exhibition)
-- 07 — Open House for X & XII; Excursions window opens (07–11)
-- 23–29 — Monthly Test
-- 30 — Deepavali Celebration; Special Assembly for Non‑teaching Staff
-
-### November 2024
-- 01 — Kerala Piravi; Naadan Paattum Drishyavishkaravum
-- 09 — Zest (Parents’ Carnival)
-- 11 — First Model Exams (X & XII) start
-- 14 — Children’s Day Special Assembly & Celebration
-- 28–30 — Theatre Day; Annual Day (I & II sessions)
-
-### December 2024
-- 05 — Second Model Exams (X & XII) start
-- 09 — Second Term Exams begin (I–IX & XI)
-- 21 — Christmas Celebration (Holidays 22 Dec – 2 Jan; Reopening 3 Jan 2025)
-
-### January 2025
-- 10 — Personal Magazine Submission (X & XII); Farewell to Class XII
-- 13 — Annual Exams for IX & XI begin
-- 18 — KG Grandparents’ Day
-- 27–31 — Monthly Test
-
-### February 2025
-- 03 — Open House for I–III; Classes begin for incoming X & XII
-- 04 — Open House for IV–VI
-- 05 — Open House for VII–VIII
-- 06 — Music Day; Submission of Personal Magazine
-
-### March 2025
-- 01 — KG Award Day
-- 10 — Annual Exams for LKG–VIII
-- 29 — General PTA; Gratitude Day; Award Distribution
-- 31 — Evaluation & Planning; School closes for summer
-
----
-
-## 2) Monthly Planner — Detailed Highlights (Chronological)
-
-### June 2024 (Detailed)
-- Reopenings & Orientations across LKG/UKG/I–XII; blessing of classrooms/buses; selection of leaders; PTA GBM
-- Elections: General Captain, House Captains, Junior School Leader; selection of school Basketball/Cricket/Football/Swimming teams
-- Assemblies (I/III; II/IV; V/VII; VI/VIII; IX/XI; X/XII; LKG FN & UKG AN); Holy Mass; Class LA
-- Inter‑house events: Basketball; Table Tennis; Monthly Quiz; Yoga Day
-- SZSC Academic Excellence Award Ceremony
-- Monthly Test window: 24–28
-
-### July 2024 (Detailed)
-- Assemblies for all blocks (LKG/UKG; I–IV; V–VIII; IX–XII); Holy Mass; Club Activity
-- Inter‑house Football & Cricket; Monthly Quiz
-- Composition Submissions (I–V; VI–VIII; IX–X; XI–XII; I–II)
-- LA Fest (06); L’Talentum for Junior School (10–12)
-- Field trips: IX–XII during L’Talentum
-- Class LA (Senior School); Open House (13); Muharram (holiday)
-- Monthly Tests: 22–26; Special Assembly (30) Feast of St Ignatius; Feast Day (31)
-
-### August 2024 (Detailed)
-- Holy Mass; Club Activity; Karkidaka Vavu
-- Assemblies across classes (LKG/UKG; I–IV; V–VIII; IX–XII)
-- Composition submissions (I–V; I–II; VI–VIII); Class LA
-- Annual Sports Day (10); Independence Day Special Assembly (14) & Independence Day (15)
-- Monthly Quiz (Junior School)
-- Sree Narayana Guru Jayanthi (17)
-- L’Talentum (Senior School) & Composition submissions (IX–X; XI–XII)
-- Sreekrishna Jayanthi; Ayyankali Jayanthi
-- First Term Exams begin (29)
-
-### September 2024 (Detailed)
-- Teachers’ Day Celebration (05); Holy Mass; Club Activity
-- Onam Celebration; Onam holidays (from ~14); Thiruvonam
-- Reopening after Onam (23): Assemblies resume
-- Loyola Cup Basketball Tournament (27–28)
-- Open House for I–III (30)
-
-### October 2024 (Detailed)
-- Open Houses (01: IV–VI; 03: VII–VIII; 04: IX & XI; 07: X & XII)
-- Gandhi Jayanthi (02)
-- LA Spectra Exhibition (05)
-- Submissions: IX–X; XI–XII; composition cycles; Club Activity
-- Excursion window (07–11); Retreat; Mahanavami; Vijayadashmi
-- Zero period for Annual Day prep begins (mid‑Oct)
-- Monthly Quiz & Monthly Tests (late Oct)
-- Deepavali Celebration; St Rodriguez’s Day (end Oct)
-
-### November 2024 (Detailed)
-- Kerala Piravi & Cultural Programme; Holy Mass; Club Activity
-- Composition Submissions (III–V; VI–VIII; IX–X; I–II; XI–XII)
-- Assemblies for all blocks
-- ZEST (Parents’ Carnival) (09)
-- First Model Exams (X & XII) start (11)
-- Children’s Day Special Assembly (14)
-- Monthly Quiz (mid‑Nov)
-- Model Exams end (around 21–22); Final stage rehearsals
-- Theatre Day; Annual Day Celebrations (LKG–III then IV–XII) (28–30)
-
-### December 2024 (Detailed)
-- Open Houses (X & XII; IX & XI; I–III; IV–VI; VII–VIII)
-- Second Model Exams (X & XII) begin (05)
-- Second Term Exams (I–IX & XI) begin (09)
-- Model Practicals (mid‑Dec)
-- Christmas Celebration; Holidays begin (21–)
-
-### January 2025 (Detailed)
-- New Year’s Day; Mannam Jayanti
-- School reopens (03 Jan); Holy Mass; Club Activity
-- Field Trips (I, V, II, IX/XI/X, III, VII, VI, IV, VIII — across Jan slots)
-- Class LA; Personal Magazine Submission (X & XII); Farewell to XII (10)
-- Annual Exams for IX & XI (from 13)
-- Kindergarten Grandparents’ Day (18)
-- Republic Day (26)
-- Monthly Tests (27–31); Monthly Quiz; Martyrs’ Day (31)
-
-### February 2025 (Detailed)
-- Classes for incoming X & XII start (03)
-- Open Houses (03: I–III; 04: IV–VI; 05: VII–VIII)
-- Music Day (06); Personal Magazine submissions
-- Assemblies across LKG/UKG & I–VIII; Holy Mass; Club Activity
-- Composition submissions (I–V; VI–VIII)
-- Class LA; Monthly Quiz
-- Monthly Tests for incoming X & XII (late Feb)
-- Mahashivratri (late Feb)
-
-### March 2025 (Detailed)
-- KG Award Day (01)
-- Annual Exams LKG–VIII (10–)
-- Attukal Pongala (early Mar)
-- Monthly Tests (incoming X & XII) throughout mid‑Mar
-- General PTA; Gratitude Day; Award Distribution (29)
-- Evaluation & Planning; Summer Vacation begins (31)
-
----
-
-## 3) Examinations & Assessments (At a Glance)
-- **Monthly Tests:** typically last week of month
-- **First Term Exams:** begin 29 Aug 2024
-- **Second Term Exams:** begin 09 Dec 2024 (Classes I–IX, XI)
-- **Model Exams (X & XII):** First (from 11 Nov 2024), Second (from 05 Dec 2024)
-- **Annual Exams:** IX & XI (from 13 Jan 2025); LKG–VIII (from 10 Mar 2025)
-
----
-
-## 4) Bus Services — Stop‑wise Timings (AM / PM)
-
-> **Note:** AM = pickup towards Loyola. PM = drop from Loyola. Phone = bus in‑charge contact.
-
-### Bus 01 — Phone: 99471 70571 (Praveen)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 06:40 | 04:45 |
-| Vazhuthacaud | 07:10 | 03:40 |
-| Radio Station | 07:10 | 03:40 |
-| Jagathy | 07:15 | 03:45 |
-| Anwar Gardens | 07:15 | 03:45 |
-| Kunjalummoodu | 07:20 | 03:50 |
-| Pappanamcode | 07:30 | 04:00 |
-| Kaimanam | 07:33 | 03:55 |
-| Karamana | 07:35 | 04:10 |
-| Kailash | 07:37 | 04:15 |
-| Killippalam | 07:40 | 04:20 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 02 — Phone: 97473 24465 (Padmakumar K)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 06:40 | 05:10 |
-| Valiathura Jn | 07:05 | 04:35 |
-| Valiathura Vidhya Gardens | 07:05 | 04:35 |
-| Kallummoodu Jn / By‑pass | 07:10 | 04:30 |
-| Poonthura Market Jn | 07:15 | 04:25 |
-| Thiruvallom | 07:17 | 04:20 |
-| Milma | 07:20 | 04:15 |
-| Ambalathara Jn | 07:20 | 04:15 |
-| Ambalathara U.P.S. | 07:20 | 04:10 |
-| Kallattumukku | 07:25 | 04:10 |
-| Kamaleswaram | 07:30 | 04:05 |
-| Balavan Nagar | 07:30 | 04:00 |
-| UAE Consulate | 07:35 | 03:55 |
-| Fort H.S. | 07:40 | 03:50 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 03 — Phone: 96335 49324 (Binol)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 06:50 | 04:30 |
-| Kochuveli Railway Station | 07:25 | 03:55 |
-| All Saints’ | 07:30 | 03:50 |
-| Chacka ITI | 07:30 | 03:50 |
-| Pettah Temple | 07:45 | 03:45 |
-| Chayakkudi Lane | 07:47 | 03:42 |
-| Kannanmoola Bridge | 07:48 | 03:41 |
-| Burma Road | 07:50 | 03:40 |
-| Kumarapuram Jn | 07:52 | 03:37 |
-| Tagore Gardens | 07:55 | 03:35 |
-| Medical College | 08:00 | 03:30 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 04 — Phone: 98469 33620 (Jijin)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:00 | 04:20 |
-| Chacka | 07:25 | 04:05 |
-| Manava Nagar | 07:27 | 04:00 |
-| Enjakkal | 07:30 | 03:55 |
-| Subhash Nagar | 07:32 | 03:50 |
-| Padinjarekottah | 07:35 | 03:45 |
-| Palkulangara (Library) | 07:37 | 03:40 |
-| Palkulangara (NSS) | 07:40 | 03:40 |
-| Pettah Post Office | 07:40 | 03:35 |
-| NISH | 07:57 | 03:30 |
-| Alathara | 08:00 | 03:25 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 05 — Phone: 94968 12175 (Sudheesh)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:00 | 04:20 |
-| Law College | 07:30 | 03:50 |
-| Varambaserry | 07:32 | 03:50 |
-| Miranda Jn | 07:33 | 03:45 |
-| Vadayakkadu | 07:35 | 03:45 |
-| PT Chacko Nagar | 07:45 | 03:35 |
-| Neerazhi Lane | 07:50 | 03:30 |
-| Kochulloor | 07:50 | 03:30 |
-| Pongummoodu | 07:55 | 03:25 |
-| Chenthy | 07:55 | 03:25 |
-| Kallampally | 08:00 | 03:20 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 06 — Phone: 96054 12348 (Sreelal)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:00 | 04:35 |
-| Elangam Lane | 07:25 | 03:55 |
-| Sreerangam Lane | 07:25 | 03:55 |
-| Sasthamangalam | 07:25 | 04:00 |
-| TTC | 07:35 | 03:50 |
-| Saraswathy Nilayam | 07:35 | 03:50 |
-| Jawahar Nagar | 07:35 | 03:50 |
-| Devaswom Board | 07:40 | 03:45 |
-| YMR | 07:40 | 03:40 |
-| Nanthancode | 07:45 | 03:40 |
-| PMG | 07:50 | 03:35 |
-| Plammoodu | 07:50 | 03:35 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 07 — Phone: 94472 04328 (Santhosh)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 06:35 | 04:45 |
-| Perukavu | 07:20 | 04:05 |
-| Mangattukadavu | 07:20 | 04:00 |
-| Puthankada | 07:25 | 03:55 |
-| Poojappura | 07:27 | 04:10 |
-| Chengallore | 07:30 | 04:15 |
-| Vijaya Mills | 07:32 | 04:10 |
-| Pallimukku | 07:35 | 03:50 |
-| SK Hospital | 07:40 | 03:45 |
-| Edapazhinji | 07:40 | 03:40 |
-| Cotton Hill | 07:40 | 03:40 |
-| LIC | 07:50 | 03:30 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 08 — Phone: 99476 49960 (Sumesh)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 06:45 | 04:45 |
-| Vettamukku | 07:05 | 04:20 |
-| PTP Nagar | 07:10 | 04:20 |
-| Arappura | 07:13 | 04:15 |
-| Lake View Lane | 07:13 | 04:15 |
-| Vattiyoorkavu | 07:15 | 04:10 |
-| Manjadimoodu | 07:17 | 04:10 |
-| Kanjirampara | 07:17 | 04:05 |
-| Maruthumkuzhy | 07:20 | 04:05 |
-| Pippinmoodu | 07:25 | 04:00 |
-| SAP Camp | 07:27 | 04:00 |
-| Latex Jn | 07:30 | 03:55 |
-| SFS Vasantham | 07:35 | 03:55 |
-| Museum | 07:35 | 03:55 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 09 — Phone: 99958 47151 (Sheeba)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 06:50 | 04:25 |
-| Edavakode | 07:00 | 04:20 |
-| Parottukonam | 07:05 | 04:15 |
-| Paruthippara | 07:10 | 04:10 |
-| Muttada | 07:15 | 04:05 |
-| Vayalikada | 07:20 | 04:00 |
-| Cheshire Home | 07:25 | 03:55 |
-| Kuravankonam Market | 07:30 | 03:50 |
-| Kuravankonam Jn | 07:30 | 03:50 |
-| Welgate | 07:35 | 03:45 |
-| KV Pattom | 07:35 | 03:45 |
-| Big Bazaar | 07:40 | 03:40 |
-| Bapuji Nagar | 07:55 | 03:35 |
-| Panchayath Office | 08:00 | 03:30 |
-| Prasanth Nagar | 08:02 | 03:27 |
-| Priyadarsini Nagar | 08:05 | 03:25 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 10 — Phone: 96054 21376 (Midhun)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:00 | 04:40 |
-| East Fort (Attakulangara) | 07:25 | 04:05 |
-| Sreevaraham | 07:27 | 04:00 |
-| Vazhapally | 07:30 | 03:57 |
-| Ayurveda College | 07:35 | 03:52 |
-| Statue | 07:40 | 03:50 |
-| Palayam | 07:42 | 03:45 |
-| Marappalam | 07:45 | 03:40 |
-| TKD – I | 07:50 | 03:40 |
-| TKD – II | 07:50 | 03:40 |
-| Muttada Jn | 07:55 | 03:37 |
-| Muttada Church | 07:57 | 03:35 |
-| M G College | 08:00 | 03:30 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 11 — Phone: 98952 49006 (Anilkumar B)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:05 | 04:25 |
-| Keraladithyapuram | 07:20 | 04:10 |
-| Mannanthala | 07:25 | 04:05 |
-| Mannanthala Press | 07:25 | 04:05 |
-| Maruthoor | 07:30 | 04:00 |
-| Mukkola | 07:35 | 03:55 |
-| Kottamugal | 07:35 | 03:55 |
-| Step Junction | 07:40 | 03:50 |
-| Nalanchira | 07:45 | 03:45 |
-| Paruthippara | 07:50 | 03:40 |
-| Kesavadasapuram | 07:55 | 03:35 |
-| Idiyadikode Temple | 08:00 | 03:30 |
-| Pulayanar Kottah | 08:05 | 03:25 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 12 — Phone: 73562 20136 (Xavier)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:05 | 04:15 |
-| General Hospital | 07:35 | 04:00 |
-| Vanchiyoor | 07:35 | 04:00 |
-| Pattoor Church | 07:40 | 03:55 |
-| EMS Nagar | 07:40 | 03:55 |
-| Moolavilakom | 07:45 | 03:50 |
-| Thampuranmukku | 07:50 | 03:45 |
-| Gowreesapattom | 07:50 | 03:45 |
-| Kottara Lane | 07:50 | 03:40 |
-| Pottakkuzhi | 07:55 | 03:40 |
-| GG Hospital | 07:55 | 03:35 |
-| Puthupalli Lane | 07:55 | 03:30 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 13 — Phone: 94472 04461 (Thomas John)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:05 | 04:25 |
-| Rose Gardens | 07:30 | 04:00 |
-| Silver Hills | 07:30 | 04:00 |
-| Venpalavattom | 07:35 | 03:55 |
-| Lords Hospital | 07:37 | 03:55 |
-| Arasummoodu | 07:38 | 03:50 |
-| Anayara L.P.S. | 07:40 | 03:50 |
-| Kallummoodu | 07:42 | 03:45 |
-| Pettah Market | 07:45 | 03:45 |
-| Avittom Road | 07:50 | 03:40 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 14 — Phone: 95446 26391 (Pournami)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:00 | 04:35 |
-| Kaithamukku | 07:15 | 04:05 |
-| Railway Bridge | 07:20 | 04:02 |
-| Ambalathumukku | 07:25 | 04:00 |
-| Palpu Road | 07:30 | 03:55 |
-| Lulu Mall | 07:40 | 03:50 |
-| Technopark Back Gate | 07:50 | 03:35 |
-| Thrippadapuram | 08:00 | 03:30 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 15 — Phone: 99478 31060 (Archana)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:00 | 04:30 |
-| Vazhayila | 07:20 | 04:10 |
-| Peroorkada (Police Station) | 07:35 | 03:55 |
-| Peroorkada (Church) | 07:35 | 03:55 |
-| Ambalamukku | 07:40 | 03:53 |
-| Toll Jn | 07:40 | 03:52 |
-| Kowdiar | 07:45 | 03:51 |
-| Pandit Colony | 07:50 | 03:40 |
-| Ulloor Bridge | 07:55 | 03:35 |
-| Ulloor | 07:55 | 03:35 |
-| Thuruvickal | 08:00 | 03:30 |
-| Latex | 08:05 | 03:25 |
-| SNDP | 08:10 | 03:20 |
-| Cheruvickal | 08:10 | 03:20 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 16 — Phone: 81380 52130 (Dhanya)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:00 | 04:25 |
-| Water Works | 07:15 | 04:10 |
-| Sreemulam Club | 07:20 | 04:05 |
-| Police Training Ground | 07:20 | 04:05 |
-| Mettukada | 07:30 | 04:00 |
-| Bakery Junction | 07:35 | 03:55 |
-| Nalumukku | 07:40 | 03:50 |
-| Pallimukku | 07:42 | 03:47 |
-| Kannammoola Jn | 07:45 | 03:45 |
-| Simi Theatre | 07:50 | 03:40 |
-| Punjab National Bank | 07:55 | 03:35 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 17 — Phone: 97473 59117 (Kavitha)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:05 | 04:20 |
-| Puthenthope | 07:30 | 04:00 |
-| St Andrews | 07:32 | 03:58 |
-| Arattu Jn | 07:33 | 03:57 |
-| Marian Engg College | 07:35 | 03:55 |
-| Menomkulam | 07:37 | 03:53 |
-| Jyothis Jn | 07:39 | 03:52 |
-| Kariyil Nalumukku | 07:40 | 03:50 |
-| Railway Over Bridge | 07:42 | 03:48 |
-| Kazhakuttom Police Station | 07:45 | 03:45 |
-| Ambalathinkara | 07:48 | 03:43 |
-| Honda Service Station | 07:50 | 03:40 |
-| Green Field Stadium | 07:52 | 03:38 |
-| Karyavattom Jn | 07:55 | 03:35 |
-| Gurumandiram | 07:57 | 03:32 |
-| Pangappara H C | 08:00 | 03:30 |
-| Mankuzhi | 08:03 | 03:27 |
-| Chavadimukku | 08:05 | 03:25 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 18 — Phone: 97453 39015 (Bindhu)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 06:55 | 04:25 |
-| SFS Cyber Gate | 07:25 | 04:05 |
-| Sainik School | 07:27 | 04:00 |
-| Chanthavila | 07:30 | 03:55 |
-| Narikkal | 07:32 | 03:50 |
-| Kattayikonam | 07:35 | 03:45 |
-| Sasthavattom | 07:40 | 03:40 |
-| Chenkottukonam | 07:45 | 03:35 |
-| Anandeswaram | 07:45 | 03:35 |
-| Ahladapuram | 07:50 | 03:30 |
-| Aniyoor Jn | 07:55 | 03:35 |
-| Chempazhanthy | 07:55 | 03:35 |
-| Udayagiri | 07:55 | 03:30 |
-| Venchavode | 08:00 | 03:25 |
-| Chekkalamukku | 08:00 | 03:20 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 19 — Phone: 79070 69390 (Preetha)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 06:55 | 04:35 |
-| LNCP | 07:05 | 04:25 |
-| Kurisadi Jn | 07:10 | 04:20 |
-| Pullannivila | 07:10 | 04:20 |
-| Thundathil School | 07:15 | 04:15 |
-| Pothencode | 07:20 | 04:10 |
-| Santhigiri Ashramam | 07:20 | 04:10 |
-| Plamoodu | 07:20 | 04:10 |
-| Ayirooppara | 07:25 | 04:05 |
-| Charummoodu | 07:30 | 04:00 |
-| Santhipuram | 07:35 | 03:55 |
-| Njandoorkonam | 07:40 | 03:50 |
-| Melemukku | 07:45 | 03:45 |
-| Powdikonam | 07:50 | 03:40 |
-| Vattavila | 07:55 | 03:35 |
-| Societymukku | 08:00 | 03:30 |
-| Chellamangalam | 08:05 | 03:25 |
-| Kariyam | 08:10 | 03:20 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 20 — Phone: 98477 39257 (Renjini)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:35 | 03:55 |
-| MGM | 07:45 | 03:45 |
-| Kazhakuttom Jn | 07:55 | 03:35 |
-| Loyola | 08:15 | 03:15 |
-
-### Bus 21 — Phone: 95449 40473 (Sheeja)
-| Stop | AM | PM |
-|---|---:|---:|
-| Loyola | 07:00 | 04:30 |
-| Mangalapuram | 07:15 | 04:15 |
-| Pallippuram | 07:20 | 04:10 |
-| Kaniyapuram | 07:25 | 04:05 |
-| Vetturoad | 07:35 | 03:55 |
-| Technopark Gate (B‑6) | 07:40 | 03:50 |
-| Attinkuzhy | 07:45 | 03:45 |
-| Mukkolackal | 07:50 | 03:40 |
-| Kulathoor Jn | 07:55 | 03:35 |
-| Arasumoodu Jn | 08:00 | 03:30 |
-| Monvila Jn | 08:05 | 03:25 |
-| Emmaus Church | 08:10 | 03:20 |
-| Loyola | 08:15 | 03:15 |
-
----
-
-## 5) Additional Trips & Special Routes
-
-### Second Trip — LONG (PM)
-**Time window:** 05:00–06:15 PM
-
-| Stop | PM |
-|---|---:|
-| Loyola | 05:00 |
-| Kesavadasapuram | 05:10 |
-| Pattom | 05:10 |
-| Marappalam | 05:15 |
-| Kuravankonam | 05:20 |
-| Kowdiar | 05:20 |
-| Vellayambalam | 05:25 |
-| Sasthamangalam | 05:30 |
-| Vellayambalam | 05:30 |
-| Vazhuthacaudu | 05:35 |
-| Women’s College | 05:40 |
-| Thampanoor | 05:45 |
-| Over Bridge | 05:45 |
-| Statue | 05:50 |
-| Palayam | 05:50 |
-| P.M.G. | 05:55 |
-| Loyola | 06:15 |
-
-### Second Trip — SHORT (PM)
-**Route (sequence):** Loyola → Kallampally → Pongummoodu → Ulloor → Medical College → Kumarapuram → Kannammoola → Nalumukku → Ambalathumukku → Collectorate (Old) → Vanchiyoor → Pattoor → Pallimukku → Chayakudi Lane → Loyola
-
-### PTA Route — AM Special
-
-| Stop | AM |
-|---|---:|
-| Loyola | 10:10 |
-| Kesavadasapuram | 10:25 |
-| Pattom | 10:25 |
-| Marappalam | 10:30 |
-| Kuravankonam | 10:35 |
-| Kowdiar | 10:35 |
-| Vellayambalam | 10:40 |
-| Sasthamangalam | 10:40 |
-| Vazhuthacaud | 10:45 |
-| Women’s College | 10:45 |
-| Statue | 10:50 |
-| Ayurveda College | 10:55 |
-| Collectorate | 10:55 |
-| Vanchiyoor | 11:00 |
-| Pattoor | 11:00 |
-| Nalumukku | 11:05 |
-| Pallimukku | 11:05 |
-| Kannammoola | 11:10 |
-| Kumarapuram | 11:15 |
-| Medical College | 11:20 |
-| Loyola | 11:30 |
-
----
-
-## 6) After Extracurricular Activities & Special Classes — Evening Buses
-
-> The following depart **after EC activities/special classes** (evening). Times below are PM times per stop.
-
-### Bus No. 01 — After EC/Special Classes
-| Stop | PM |
-|---|---:|
-| Panavila | 06:00 |
-| Killippalam | 05:55 |
-| Kailas Nagar | 05:50 |
-| Karamana | 05:50 |
-| Pappanamcode | 05:45 |
-| Poojappura | 05:40 |
-| Vijaya Mills | 05:35 |
-| Pallimukku | 05:35 |
-| Pangode | 05:30 |
-| Edapazhinji | 05:25 |
-| Jagathy | 05:25 |
-| Vazhuthacaud | 05:20 |
-| Vellayambalam | 05:15 |
-| Sasthamangalam | 05:15 |
-| Pippinmoodu | 05:10 |
-| Kowdiar | 05:10 |
-| Kuravankonam | 05:10 |
-| YMR Jn | 05:10 |
-| Nanthencode | 05:05 |
-| Museum | 05:05 |
-| PMG | 05:05 |
-| Plamoodu | 05:00 |
-| Pattom | 05:00 |
-| Kesavadasapuram | 04:55 |
-| Ulloor | 04:50 |
-| Pulayanarkottah | 04:45 |
-| Cheruvickal | 04:42 |
-| Loyola | 04:40 |
-
-### Bus No. 02 — After EC/Special Classes
-| Stop | PM |
-|---|---:|
-| Lords Hospital | 05:45 |
-| Lulu Mall | 05:40 |
-| MGM School | 05:35 |
-| Attinkuzhy | 05:30 |
-| Technopark Gate | 05:25 |
-| St Andrews | 05:20 |
-| Menomkulam | 05:15 |
-| Kazhakuttom | 05:10 |
-| Thrippadapuram | 05:05 |
-| Kariyavattom | 05:00 |
-| Pangappara HC | 04:55 |
-| Mankuzhi | 04:50 |
-| Chavadimukku | 04:45 |
-| Loyola | 04:40 |
-
-### Bus No. 03 — After EC/Special Classes
-| Stop | PM |
-|---|---:|
-| Manacaud | 05:55 |
-| Sreevaraham | 05:50 |
-| Collectorate | 05:45 |
-| Vanchiyoor | 05:40 |
-| Pattoor | 05:35 |
-| Nalumukku | 05:30 |
-| Kannammoola | 05:25 |
-| Goureesapattom | 05:20 |
-| Pottakkuzhy | 05:15 |
-| GG Hospital | 05:10 |
-| Kumarapuram | 05:05 |
-| Medical College | 05:00 |
-| Ulloor | 04:55 |
-| Pongummoodu | 04:50 |
-| Kallampally | 04:45 |
-| Loyola | 04:40 |
-
-### Bus No. 04 — After EC/Special Classes
-| Stop | PM |
-|---|---:|
-| LNCP | 06:10 |
-| Kurisadi Junction | 06:05 |
-| Pullannivila | 06:00 |
-| Thundathil | 05:55 |
-| Chenkottukonam | 05:50 |
-| Sasthavattom | 05:45 |
-| Kattayikonam | 05:40 |
-| Pothencode | 05:35 |
-| Melemukku | 05:30 |
-| Plamoodu | 05:25 |
-| Ayiroorpara | 05:20 |
-| Charumoodu | 05:15 |
-| Njandoorkonam | 05:10 |
-| Powdikonam | 05:05 |
-| Vattavila | 05:00 |
-| Chellamangalam | 04:55 |
-| Kariyam | 04:50 |
-| Loyola | 04:40 |
-
----
+System Prompt:
+You are a helpful, friendly AI assistant designed to provide information, answer questions, and engage in conversation. You speak only English. Your tone is warm and approachable while remaining professional. Answer users’ questions in short, engaging responses. Refer to the following knowledgebase:
+
+— — — — — — — — — — — — — — — — — — — —
+FOREWORD — ROOTS OF RESOLVE (2025–26)
+The theme ‘Roots of Resolve’ likens individuals to a mighty tree rooted in resilience and reaching for ambition. As a community of students, educators, and families, we draw strength from foundational values, friendships, and lessons, while boldly pursuing aspirations. Our roots represent perseverance, parental dedication, teacher guidance, teammate support, and belief in our potential, fostering resilience and stability. Resolve drives us forward with courage, commitment, and compassion, building on last year’s ‘Leadership in Action’ to explore inner strength and purpose.
+Students are encouraged to plant a tree at the beginning of the academic session, symbolizing growth, sustainability, and impact. They will reflect on personal roots through art, writing, and storytelling, celebrating what shapes their identities. Service projects, innovative initiatives, and collaboration will showcase our resolve to effect change within and beyond our school. Inspired by Tennyson’s “To strive, to seek, to find, and not to yield,” we aim to deepen our roots, fortify our resolve, and shine brightly—growing as a united community, balancing grounded resilience and purposeful ambition.
+—Principal
+
+— — — — — — — — — — — — — — — — — — — —
+CLASS TEACHERS (Name — Class — Phone)
+Ms Rajitha R — LKG A — 94463 61785
+Ms Arati Nair — LKG B — 97495 16508
+Ms Veena V — LKG C — 75580 38602
+Ms Arti Rawat — UKG A — 90377 96964
+Ms Twarita Tripathi — UKG B — 85473 39566
+Ms Sandhya Rajan — UKG C — 70252 10867
+Ms Siji Abraham — UKG D — 94956 27806
+Ms Rajaseera P — UKG E — 94977 72132
+Ms Neetu Deepak — UKG F — 94495 23136
+Mullu Das — UKG G — 89851 01117
+Ms Aarya Harendran — UKG H — 93883 71522
+Ms Lovely Romin — I A — 94957 52004
+Ms Johna Rose — I B — 85977 35509
+Ms Anjali A Das — I C — 94467 52622
+Ms Latika K — I D — 94467 52622
+Ms Linsha A — I A1 — 73069 45306
+Ms Sreelekha K J — I A2 — 94470 90212
+Ms Jeena Mohanan — I B1 — 94470 90212
+Ms Shiny John — I B2 — 94470 45306
+Ms Beena Joseph N — I C1 — 94470 45306
+Ms Ligi Joseph — II A — 94958 51376
+Ms Amrutha C V — II B — 94958 51376
+Ms Priya Rajan — II C — 94958 51376
+Ms Deepa K S — II A1 — 94958 51376
+Ms Sheeba Joe Edwin — II B1 — 94958 51376
+Ms Anju Babu Varghese — II C1 — 94958 51376
+Ms Sumitra R Nair — III A — 94958 51376
+Ms Mini K P — III B — 94958 51376
+Ms Aysha K P — III C — 81588 81214
+Ms Madhulika Singh Rathore V — IV B — 92893 17440
+Ms Sobha I V — V A — 96033 72622
+Ms Prema Titus — V B — 98953 50086
+Ms Gouri Priya B J — V A1 — 94470 90212
+Ms Parvathi Devi U — V A2 — 80755 53454
+Ms Jossy Thomas — V C — 94472 01627
+Ms Deepti C Nair — V B1 — 94461 51262
+Ms Jinsan Shibu — V D — 93880 38639
+Ms Smitha Stephen — VI A — 94460 61180
+Ms Beena Thomas — VI A1 — 94462 93976
+Ms Aswathy G — VI B — 94460 61180
+Ms Abhirami J S — VI B1 — 94460 61180
+Ms Anu K V — VI C — 94479 91449
+Ms Mupur Choudhary — VI D — 94479 91449
+Ms Marina Antony — VII A — 94479 91449
+Ms Srividya M — VII A1 — 94479 91449
+Ms Resmi Gopalakrishnan — VII C — 94479 91449
+Ms Meena Paul — VII C1 — 94479 91449
+Ms Anita Kumari S I — VII D — 94479 91449
+Ms Ans Benny — VII D1 — 94479 91449
+Ms Renjini Sreekumar S — VIII A — 94479 91449
+Ms Manjula J — VIII B — 94479 91449
+Ms Dayana Suresh — VIII C — 94479 91449
+Dr Aswathy Raj — VIII D — 94479 91449
+Ms Rajitha P — VIII D1 — 94479 91449
+Ms Raji V — IX A — 94479 91449
+Ms Dhanya Radhakrishnan — IX A1 — 94479 91449
+Ms Sindhu Sarma — IX B — 94479 91449
+Ms Ruby A John — IX B — 94479 91449
+Ms Sreekalasmith S — IX C — 96330 99590
+Ms Sherin Francis — IX B1 — 85470 24530
+Mr Anilkumar R — X — 94474 71465
+Ms Keerthy V S — X B — 94479 31667
+Mr Binu B N — X C — 95391 15655
+Ms Roshni Francis — X A — 94866 37822
+Ms Sonia Rajendran — X B1 — 85479 66735
+Ms Aswathy R Philip — XI A — 97453 12625
+Mr Shibu Sunny — XI B — 94467 04248
+Ms Padmam A — XI C — 94970 04807
+Ms Anjana Srikumar — XI D — 94465 74674
+Ms Lisha Vijayan — XI A1 — 89213 83337
+Ms Roshy Thomas — XI B1 — 80780 11547
+Ms Rosmy Thomas — XI C1 — 80877 16033
+Ms Sobhana Satheesh — XI D1 — 94470 53516
+Ms Sarah Koshy — XI F1 — 96772 68547
+Ms Sreeja T I — XI F — 96337 64341
+Ms Catherine Thomas — XI G1 — 82822 36135
+Ms Bindu P — XI G2 — 94476 98446
+Ms Bijiyaalapuzha Bijuchettan — XII A — 95671 68380
+Ms Reena Ramesan — XII B — 94475 29385
+Ms Judy K Punnoose — XII C — 94950 26330
+Ms Aswathy S — XII D1 — 94462 24835
+Ms Bansa Prem — XII D — 94956 74550
+Ms Salin Mary Varghuese — XII D1 — 97447 69274
+Ms Thasni T — XII F1 — 99953 97239
+Ms Asha S — XI F — 94976 89423
+
+OTHER TEACHERS (Name — Subject/Role — Phone)
+Fr Syriac Panjikaran, SJ — German — 98624 42475
+Mr M S Pillai — French — 94475 98557
+Br Peter Singh, SJ — — 94475 98557
+Dr Archana T — — 75986 22005
+Dr Jeena Susan Easow — — 95667 10796
+Mr Arad Zachariah — — 97780 63919
+Mr Anu G S — — 80984 42299
+Mr Deepu M — — 94951 70676
+Mr Nithin N — — 95633 30917
+Mr Paul Eugin — — 95395 42990
+Mr Rajesh T G — — 96397 04441
+Mr Shibu Manohar — — 95671 49609
+Mr Sooraj S R — — 94963 67334
+Mr Sunil Kumar V T — — 94965 71216
+Mr Suresh Daniel — — 94474 13144
+Mr Vishnu B Nair — — 94986 18043
+Ms Ajitha Shibu — — 70123 53709
+Ms Anila Elsa Thomas — — 94964 33105
+Ms Ankitha Robert — — 98471 93432
+Ms Anju S K — — 72936 11857
+Ms Arathy B. Kumar — — 90618 13935
+Ms Archana Sarlka V R — — 95605 73438
+Ms Binduchelaja Cijo — — 98460 33816
+Ms Elizabeth K George — — 98985 62910
+Ms Giney Roshan Thomas — — 94963 67334
+Ms Gopika Krishnan A G — — 85904 08893
+Ms Jesha Majeed — — 85470 78712
+Ms Lekshmi Geetha Sajeev — — 94965 33105
+Ms Leena George — — 94959 35932
+Ms Malathy S. — — 99952 24584
+Ms Mini K Nair — — 94965 33105
+Ms Nisha Varghese — — 98966 50359
+Ms Nitha P S — — 94964 53177
+Ms Priya Balan — — 94965 33105
+Ms Raji Mathew — — 94965 33105
+Ms Renu C R — — 95625 70675
+Ms Shalmol S. — — 94969 37115
+
+OFFICE STAFF (Name — Phone)
+Mr George Kutty — 94004 96040
+Mr Robin P Joseph — 96050 76806
+Ms Manjusha S — 80765 85452
+Ms Sajila Mariam Sunny — 80987 65195
+Ms Aswathy P — 80756 85452
+Mr Vaishakh S — 81118 50813
+
+ACCOUNTANTS (Name — Phone)
+Ms Celia Antony — 83040 55402
+Ms Ajitha Kumari P R — 88484 87352
+Ms Maghalin M — 80750 51914
+
+LIBRARIANS (Name — Phone)
+Mr Rollin Fernandez — 94471 13933
+Ms Lekshmi J Hari — 94965 33105
+Ms Sreekutty C S — 80896 49392
+
+NON-TEACHING STAFF (Name — Phone)
+Sr Rosina Kanatte — 95695 96595
+Mr Padmakumar V G — 96450 82136
+Mr Santhosh A — 94472 04302
+Mr Sajan V A — 94960 91748
+Mr Sreelal S V — 95605 12348
+Mr Thomas John — 94472 04461
+Mr Jijin V P — 98946 33620
+Mr Suresh R — 94476 49600
+Mr Sudheesh R — 94462 11775
+Mr Padmakumar K — 97473 24465
+Mr Praveen M — 94951 03676
+Mr Bidhun B P — 94951 23167
+Mr Anoop A S — 94951 00353
+Mr Ajesh Kumar V A — 94951 00353
+Mr Girish Kumar — 94951 00353
+Mr Anilkumar B — 94951 00353
+Mr Gopakumar K — 94967 04462
+Ms Bindhu M — 97453 75474
+Mr Anilkumar R — 94965 33105
+Ms Shyamala N — 95675 60219
+Ms Usha Kumari — 94965 33105
+Ms Sheeba R — 94965 33105
+Ms Preetha J — 73090 69330
+Ms Kavitha K R — 97473 59117
+Ms Dhanya T — 97473 59117
+Ms Suma C — 73563 57297
+Ms Pournami A — 94965 33105
+Ms Archana N — 94965 33105
+Ms Renjini S U — 88477 36527
+Ms Subha K L — 94965 33105
+Ms Jayakumari A T — 94965 33105
+Ms Beatrice Rex H — 94965 33105
+Ms Sheeja Thayil G K — 94965 33105
+Mr Sujit Das — 94965 33105
+Ms Sheeja R — 70122 91706
+Ms Anila S — 94965 33105
+Mr Prakash Babu — 94965 38171
+
+— — — — — — — — — — — — — — — — — — — —
+ACADEMIC CALENDAR (2025–2026)
+
+JUNE 2025 — Events
+• 02 Mon: School Reopening for Classes I–XII; blessing of buses/classrooms; class leader selection; orientation for all classes
+• 03 Tue: Orientation for all classes
+• 04 Wed: Election of Captains; selection for Clubs & Squads; UKG classes start; PTM & Parent Rep election (UKG)
+• 05 Thu: LKG classes start; Orientation/PTM & Parent Rep election (LKG); Environment Day (Eco Club); Assembly (Junior School); Election of Junior School Leader
+• 06 Fri: Bakrid
+• 09 Mon: Election of School Leader; Academic Award Day
+• 10 Tue: Selection of School Basketball Team
+• 11 Wed: Investiture Ceremony; Selection of School Cricket Team
+• 12 Thu: Selection of School Football Team; Submission of composition (Classes X & XII)
+• 13 Fri: Holy Mass; Selection of School Swimming Team
+• 16 Mon: PTA GBM I–V (8:30–10:30); PTA GBM VI–XII (11:30–13:30)
+• 17 Tue: Assembly I & III (FN); Assembly II & IV (AN)
+• 18 Wed: Assembly V & VII (FN); Assembly VI & VIII (AN)
+• 19 Thu: Inter-house Basketball; Assembly IX (FN) & X (AN)
+• 20 Fri: Monthly Quiz
+• 21 Sat: Yoga Day
+• 24 Tue: Assembly I & III (FN); Assembly II & IV (AN)
+• 25 Wed: Assembly V & VII (FN); Assembly VI & VIII (AN)
+• 26 Thu: Inter-house Basketball; Assembly IX (FN) & X (AN)
+• 27 Fri: Class LA
+• 30 Mon: Inter-house Football; Assembly UKG (AN); Submission of Book Review
+
+JULY 2025 — Events
+• 01 Tue: National Doctors’ Day; Assembly I & III (FN) and II & IV (AN)
+• 02 Wed: Assembly V & VIII (FN) and VI, VII & VIII (AN)
+• 03 Thu: Composition submission (IX & XI); Inter-house Basketball; Assembly IX (FN) & X (AN)
+• 04 Fri: LA Fest Preparation
+• 05 Sat: LA FEST
+• 06 Sun: Muharram
+• 07 Mon: Assembly LKG (FN); Assembly UKG (AN); Composition submission (VI–VIII)
+• 08 Tue: L’Talentum (Junior School)
+• 09 Wed: L’Talentum (Junior School)
+• 10 Thu: Assembly IX (FN); Assembly X (AN)
+• 11 Fri: Holy Mass; Composition submission (III–V)
+• 14–18 Mon–Fri: Midterm exam (X & XII) and Unit Tests (I–IX & XI)
+• 21 Mon: Assembly LKG (FN); Assembly UKG (AN)
+• 22 Tue: Assembly I & III (FN); II & IV (AN)
+• 23 Wed: Assembly V & VII (FN); VI & VIII (AN)
+• 24 Thu: Karkidaka Vavu
+• 25 Fri: Composition submission (I & II); Class LA
+• 26 Sat: Open House LKG–XII
+• 28–29 Mon–Tue: L’Talentum (Senior School); Assemblies LKG (FN) & UKG (AN)
+• 30 Wed: Assembly I & III (FN); II & IV (AN); Special Assembly (Feast of St Ignatius); Submission of Book Review
+• 31 Thu: Feast of St Ignatius of Loyola (Patron Saint)
+
+AUGUST 2025 — Events (H=Holiday, C=Class)
+• 01 Fri (C): Holy Mass
+• 02–03 Sat–Sun (H)
+• 04 Mon (C): First Mid-term Exams start (I–IX & XI); Assembly LKG (FN); First Term Exams for X (ICSE & CBSE) begin; Assembly UKG (AN)
+• 07 Thu (C): First Term Exams for ISC & CBSE XII begin
+• 08 Fri (C): Club Activities
+• 14 Thu (C): End of First Term Exams for X & XII; Independence Day celebration
+• 15 Fri (H): Independence Day
+• 18 Mon (C): Composition submission (VI–VIII); Assembly LKG (FN); Assembly UKG (AN)
+• 19 Tue (C): Assembly I & III (FN); I & IV (AN)
+• 20 Wed (C): Assembly V & VI (FN); VI & VII (AN)
+• 21 Thu (C): Assembly IX (FN); X (AN)
+• 23 Sat (C): Annual Sports Day
+• 28 Thu (H): Ayyankali Jayanthi
+• 29 Fri (C): Onam Special Assembly
+• 30 Sat (H): School closes for Onam Holidays
+• 31 Sun (H)
+
+SEPTEMBER 2025 — Events
+• 01–07 Mon–Sun (H)
+• 04 Thu (H): Onam
+• 05 Fri (H): Milad-e-Sherif
+• 08 Mon (C): School reopens after Onam; Assembly LKG (FN); Assembly UKG (AN)
+• 09 Tue (C): Assembly I & III (FN)
+• 10 Wed (C): Assembly II & IV (AN); Assembly V & VII (FN); Assembly VI & VIII (AN)
+• 11 Thu (C): Assembly IX (FN) & X (AN)
+• 12 Fri (C): Holy Mass; Teachers’ Day Special Assembly; Composition submission (I, II, IX & XI)
+• 13 Sat (C): Open House LKG–XII
+• 14 Sun (H): Sri Krishna Jayanthi
+• 15 Mon (C): Unit test for X & XII; Assembly LKG (FN); Assembly UKG (AN)
+• 16 Wed (C): Assembly I & III (FN); II & IV (AN)
+• 17 Wed (C): Assembly V & VII (FN); VI & VIII (AN)
+• 18 Thu (C): Assembly IX (FN) & X (AN)
+• 19 Fri (C): L’ Spectra
+• 21 Sun (H): Sree Narayana Guru Samadhi Day
+• 22 Mon (C): Assembly LKG (FN); Assembly UKG (AN)
+• 23 Tue (C): Assembly I & III (FN)
+• 24 Wed (C): Assembly II & IV (AN); Assembly V & VII (FN); Assembly VI & VIII (AN)
+• 25 Thu (C): Club Activities; Assembly IX (FN) & X (AN)
+• 26–27 Fri–Sat (C/H): Loyola Cup Basketball Tournament (Fri C; Sat H); Class LA (Fri)
+• 29 Mon (C): Assembly LKG (FN); Assembly UKG (AN)
+• 30 Tue (C): Assembly I & III (FN); II & IV (AN); Submission of Book Review
+
+OCTOBER 2025 — Events (H/C)
+• 01 Wed (H): Mahanavmi
+• 02 Thu (H): Gandhi Jayanthi, Vijaya Dashmi
+• 03 Fri (C): Holy Mass
+• 06 Mon (C): Assembly LKG (FN); Assembly UKG (AN)
+• 07 Tue (C): Assembly I & III (FN)
+• 08 Wed (C): Assembly II & IV (AN); Assembly V & VII (FN)
+• 09 Thu (C): Assembly VI & VIII (AN)
+• 10 Fri (C): Assembly X (AN)
+• 13 Mon (C): First Term Exams begin (I–IX & XI)
+• 17 Fri (C): Deepavali celebration
+• 18 Sat (H): Open House for X & XII
+• 20 Mon (H): Deepavali
+• 23 Thu (C): Assembly X
+• 25 Sat (H): Open House
+• 28 Tue (C): End of First Term Exams (I–IX & XI)
+• 29 Wed (C): Club Activities
+• 30 Thu (C): Painting Day
+• 31 Fri (C): St Rodriguez’s Day; Special Assembly for Non-teaching Staff; Class LA
+
+NOVEMBER 2025 — Events (H/C)
+• 01 Sat (H): Kerala Piravi
+• 03 Mon (C): Assembly LKG (FN); Assembly UKG (AN); Composition submission (X & XII)
+• 04 Tue (C): Assembly I & III (FN); Assembly II & IV (AN)
+• 05 Wed (C): Assembly V & VII (FN); Assembly VI & VIII (AN)
+• 06 Thu (C): Assembly IX (FN) & X (AN)
+• 07 Fri (C): Holy Mass; Composition submission (III–VIII)
+• 08 Sat (H): ZEST (Parents’ Carnival)
+• 10 Mon (C): Assembly LKG (FN); Assembly UKG (AN); Composition submission (III–V)
+• 11 Tue (C): Assembly I & II (FN); Assembly II & IV (AN)
+• 12 Wed (C): Assembly V & VII (FN); Assembly VI & VIII (AN)
+• 13 Thu (C): Second Term exam for ICSE X; Assembly IX (FN); Composition submission (I, II, IX & XI)
+• 14 Fri (H): Children’s Day Special Assembly
+• 15 Sat (H): Open House LKG–IX & XI
+• 17 Mon (C): Assembly LKG (FN); Assembly UKG (AN)
+• 18 Tue (C): Assembly I & III (FN)
+• 19 Wed (C): Assembly II & IV (AN)
+• 20 Thu (C): Assembly V & VII (FN); Assembly VI & VII (AN); Second Term Exam for CBSE X, ISC XI & CBSE XII
+• 21 Fri (C): Monthly Quiz
+• 24 Mon (C): Assembly LKG (FN); Assembly UKG (AN)
+• 25 Wed (C): Assembly I & III (FN)
+• 26 Wed (C): Assembly II & IV (AN); Assembly V & VII (FN); Assembly VI & VIII (AN); End of Second Term Exams for X & XII
+• 27 Thu (C): Submission of Book Review
+• 28–29 Fri–Sat (C): Annual Day (two days)
+• 30 Sun (H)
+
+DECEMBER 2025 — Events (H/C)
+• 01 Mon (C): Assembly LKG (FN); Assembly UKG (AN)
+• 02 Tue (C): Assembly I & III (FN); Assembly II & IV (AN)
+• 03 Wed (C): Assembly V & VII (FN); Assembly VI & VIII (AN)
+• 04 Thu (C): Assembly IX
+• 05 Fri (C): Holy Mass; Submission of Personal Magazine (X & XII)
+• 08 Mon (C): First Pre-Board ICSE X; Assembly LKG (FN); Assembly UKG (AN)
+• 09 Tue (C): Assembly I & III (FN); Assembly II & IV (AN)
+• 10 Wed (C): Assembly V & VII (FN); Assembly VI & VIII (AN)
+• 11 Thu (C): First Pre-Board CBSE X & XII and ISC XII; Assembly IX (FN)
+• 15–18 Mon–Thu (C): Mid-Term Exams (IX & XI) and Unit Tests (I–VIII)
+• 19 Fri (C): Christmas Special Assembly
+• 20 Sat (H): Christmas Holidays begin
+• 25 Thu (H): Christmas
+• 30 Tue (C): Submission of Book Review
+• 31 Wed (C)
+
+JANUARY 2026 — Events (H/C)
+• 01 Thu (C): New Year’s Day
+• 02 Fri (H): Mannam Jayanti
+• 05 Mon (C): Start of Second Pre-Board Exams (X & XII); Assembly LKG (FN); Assembly UKG (AN)
+• 06 Tue (C): Assembly I & III (FN); Assembly II & IV (AN)
+• 07 Wed (C): Assembly V & VIII (FN); Assembly VI & VIII (AN)
+• 08 Thu (C): Assembly IX (FN)
+• 09 Fri (C): Holy Mass; Submission of Personal Magazine (I–IX & XI)
+• 12 Mon (C): Assembly LKG (FN); Assembly UKG (AN)
+• 13 Tue (C): Assembly I & III (FN); Assembly II & IV (AN)
+• 14 Wed (C): Assembly V & VIII (FN); Assembly VI & VIII (AN)
+• 16 Fri (C): Start of Second Term Exam ICSE IX; End of First Pre-Boards; Monthly Quiz
+• 17 Sat (H): Kindergarten Grandparents’ Day
+• 19–23 Mon–Fri (C): Prayer Service for Class X (Mon); Second Mid-Term Exams (I–VIII) all week
+• 20 Tue (C): Farewell for Class XII
+• 23 Fri (C): Start of Second Term Exams for CBSE IX & XI and ISC XI
+• 24 Sat (H): Open House for X & XII
+• 26 Mon (H): Republic Day
+• 27–28 Tue–Wed (C): Assembly I & III (FN); II & IV (AN) ; Assembly V & VIII (FN); VI & VIII (AN)
+• 30 Fri (C): Martyrs’ Day; End of Second Term Exams for IX & XI; Submission of Book Reviews; Class LA
+• 31 Sat (H)
+
+FEBRUARY 2026 — Events (H/C)
+• 02 Mon (C): Classes begin for incoming X & XII; Assembly LKG (FN); Assembly UKG (AN)
+• 03 Tue (C): Assembly I & III (FN); Assembly II & IV (AN)
+• 04 Wed (C): Assembly V & VII (FN); Assembly VI & VIII (AN)
+• 05 Thu (C): Holy Mass; Composition submission (I–V); Club Activities
+• 06 Fri (C): Release of Personal Magazine & Reading Legends Awards
+• 08 Sun (H)
+• 09 Mon (C): Assembly LKG (FN); Assembly UKG (AN)
+• 10 Tue (C): Assembly I & III (FN); Assembly II & IV (AN)
+• 11 Wed (C): Assembly V & VII (FN); Assembly VI & VIII (AN)
+• 12 Thu (C): Composition submission (VI–VIII)
+• 13 Fri (C): Music Day — Vocal
+• 14 Sat (H): Open House
+• 16–18 Mon–Wed (C): Evaluation of Extracurricular Activities
+• 19 Thu (C): Monthly Quiz
+• 20 Fri (C): Music Day — Instrumental
+• 22 Sun (H)
+• 23–27 Mon–Fri (C): Assemblies (LKG/UKG; I–IV; V–VII; VI–VIII); Tik-Tik Life Mega Quiz (26 Thu); Class LA (27 Fri)
+
+MARCH 2026 — Events (H/C)
+• 03 Tue (H): Attukal Pongala
+• 06 Fri (C): Holy Mass
+• 16 Mon (C): Start of Second Term Exams (Classes I–VIII)
+• 31 Tue (C): End of Second Term Exams (Classes I–VIII)
+
+— — — — — — — — — — — — — — — — — — — —
+BUS ROUTES & TIMINGS (AM pickup toward Loyola / PM drop from Loyola)
+
+BUS 1 (Praveen — 99471 70571)
+AM 06:40 — Loyola — PM 04:45
+AM 07:10 — Vazhuthacaud — PM 03:40
+AM 07:15 — Radio Station — PM 03:45
+AM 07:20 — Jagathy — PM 03:50
+AM 07:25 — Arwa Gardens — PM 03:55
+AM 07:30 — Kunjalummoodu — PM 03:00
+AM 07:32 — Papannamcode — PM 03:05
+AM 07:35 — Kaimanam — PM 03:10
+AM 07:37 — Karamana — PM 03:15
+AM 07:40 — Kailas — PM 03:20
+AM 07:45 — Killippallam — PM 03:25
+AM 08:15 — Loyola — PM 03:15
+
+BUS 2 (Padmakumar K — 97473 24465)
+AM 07:00 — Loyola — PM 04:55
+AM 07:05 — Valiathura Jn — PM 04:50
+AM 07:10 — Valiathura Vidhya Gardens — PM 04:15
+AM 07:15 — Kallummoodu Jn (new) — PM 04:05
+AM 07:20 — Poonthura Market Jn — PM 04:00
+AM 07:25 — Thiruvallom — PM 04:05
+AM 07:30 — Muttathara — PM 04:10
+AM 07:35 — Ambalathara Jn — PM 04:15
+AM 07:40 — Ambalathara U.P.S — PM 04:35
+AM 07:45 — Kallattumukku — PM 04:30
+AM 07:50 — Kamaleswaram — PM 04:25
+AM 08:00 — Balavan Nagar — PM 03:45
+AM 08:05 — UAE Consulate — PM 03:40
+AM 08:10 — Fort H.S. — PM 03:30
+AM 08:15 — Loyola — PM 03:15
+
+BUS 3 (Binol — 96335 49324)
+AM 06:50 — Loyola — PM 04:30
+AM 07:25 — Kochuveli Railway Station — PM 03:55
+AM 07:30 — All Saints’ — PM 03:50
+AM 07:35 — Chacka ITI — PM 03:45
+AM 07:40 — Pettah Temple — PM 03:42
+AM 07:45 — Chayakudam Lane — PM 03:41
+AM 07:50 — Kannammoola Bridge — PM 03:40
+AM 07:55 — Burma Road — PM 03:37
+AM 08:00 — Kumarapuram Jn — PM 03:35
+AM 08:05 — Tagore Gardens — PM 03:30
+AM 08:10 — Medical College — PM 03:25
+AM 08:15 — Loyola — PM 03:15
+
+BUS 4 (Jijin — 98469 33620)
+AM 07:00 — Loyola — PM 04:20
+AM 07:20 — Chacka — PM 04:05
+AM 07:25 — Manava Nagar — PM 04:00
+AM 07:30 — Enjakkal — PM 03:55
+AM 07:32 — Subhash Nagar — PM 03:50
+AM 07:35 — Padinjarethakk — PM 03:45
+AM 07:37 — Pallikulangara (Library) — PM 03:40
+AM 07:40 — Pallikulangara (NSS) — PM 03:37
+AM 07:42 — Pettah Post Office — PM 03:35
+AM 08:15 — Loyola — PM 03:15
+
+BUS 5 (Sudheesh — 94961 81275)
+AM 07:00 — Loyola — PM 04:20
+AM 07:30 — Law College — PM 03:50
+AM 07:35 — Varamabassery — PM 03:45
+AM 07:40 — Wiranda Jn — PM 03:40
+AM 07:45 — Vadayakkadu — PM 03:35
+AM 07:50 — PT Chacko Nagar — PM 03:30
+AM 07:55 — Neerazhi Lane — PM 03:25
+AM 08:00 — Kochullor — PM 03:20
+AM 08:05 — Pongummood — PM 03:15
+AM 08:10 — Chenthiy — PM 03:25
+AM 08:15 — Kallampally — PM 03:20
+AM 08:15 — Loyola — PM 03:15
+
+BUS 6 (Sreelal — 96054 12348)
+AM 07:00 — Loyola — PM 04:35
+AM 07:05 — Valiathura Jn — PM 04:30
+AM 07:10 — Sreerangam Lane — PM 04:25
+AM 07:15 — Sasthamangalam — PM 04:20
+AM 07:20 — TTC — PM 04:15
+AM 07:25 — Saraswathy Nilayam — PM 04:10
+AM 07:30 — Jawahar Nagar — PM 04:05
+AM 07:35 — Devaswom Board — PM 04:00
+AM 07:40 — YMIR — PM 03:55
+AM 07:45 — Manthancode — PM 03:50
+AM 07:50 — PMG — PM 03:45
+AM 07:55 — Plammoodu — PM 03:40
+AM 08:15 — Loyola — PM 03:15
+
+BUS 7 (Santhosh — 94472 04328)
+AM 06:35 — Loyola — PM 04:45
+AM 07:20 — Perukavu — PM 04:40
+AM 07:25 — Mangattukadavu — PM 04:35
+AM 07:30 — Puthankada — PM 04:30
+AM 07:32 — Poojaapura — PM 04:25
+AM 07:35 — Choorayil — PM 04:20
+AM 07:37 — Vijaya Mills — PM 04:10
+AM 07:40 — Pallimukku — PM 03:55
+AM 07:40 — SK Hospital — PM 03:50
+AM 07:50 — Edapazhinji — PM 03:45
+AM 08:00 — Cotton Hill — PM 03:40
+AM 08:15 — Loyola — PM 03:15
+
+BUS 8 (Sumesh — 99476 49960)
+AM 06:45 — Loyola — PM 04:45
+AM 07:00 — Vettamukku — PM 04:15
+AM 07:05 — PTP Nagar — PM 04:10
+AM 07:10 — Arappura — PM 04:05
+AM 07:12 — Lake View Lane — PM 04:00
+AM 07:14 — Vattiyoorkavu — PM 03:55
+AM 07:15 — Manjadimoodu — PM 03:50
+AM 07:17 — Kanjirampara — PM 03:45
+AM 07:20 — Maruthumkuzhy — PM 03:40
+AM 07:25 — Pipinmoodu — PM 03:35
+AM 07:30 — SAP Camp — PM 03:30
+AM 07:32 — Latex Ln — PM 03:25
+AM 07:35 — JES Vasantham — PM 03:20
+AM 07:40 — Museum — PM 03:15
+AM 08:15 — Loyola — PM 03:15
+
+BUS 9 (Sheeba — 99958 47151)
+AM 06:30 — Loyola — PM 04:25
+AM 06:40 — Edavakode — PM 04:20
+AM 06:50 — Parottukonam — PM 04:15
+AM 07:00 — Paruthippara — PM 04:10
+AM 07:05 — Muttada — PM 04:05
+AM 07:10 — Vayalikada — PM 04:00
+AM 07:15 — Cheshire Home — PM 03:55
+AM 07:20 — Kuravankonam Market — PM 03:50
+AM 07:25 — Kuravankonam Jn — PM 03:45
+AM 07:30 — Welgate — PM 03:40
+AM 07:35 — KV Potten — PM 03:35
+AM 07:40 — Big Bazaar — PM 03:30
+AM 07:45 — Bapuji Nagar — PM 03:25
+AM 07:50 — Panchayath Office — PM 03:20
+AM 07:55 — Prasanth Nagar — PM 03:15
+AM 08:00 — Priyadarshini Nagar — PM 03:15
+AM 08:15 — Loyola — PM 03:15
+
+BUS 10 (Midhun — 96054 21376)
+AM 07:00 — Loyola — PM 04:40
+AM 07:05 — East Fort (Attakulangara) — PM 04:35
+AM 07:10 — Sreevaraham — PM 04:30
+AM 07:15 — Vazhapally — PM 04:25
+AM 07:20 — Ayurvedic College — PM 04:20
+AM 07:25 — Statue — PM 04:15
+AM 07:30 — Palayam — PM 04:10
+AM 07:35 — Marappalam — PM 04:05
+AM 07:40 — TKD - I — PM 04:00
+AM 07:45 — TKD - II — PM 03:55
+AM 07:50 — Muttada Jn — PM 03:50
+AM 07:55 — Muttada Church — PM 03:45
+AM 08:00 — G M College — PM 03:40
+AM 08:15 — Loyola — PM 03:15
+
+BUS 11 (Anilkumar B — 98952 49006)
+AM 07:05 — Loyola — PM 04:25
+AM 07:20 — Keraladithyapuram — PM 04:10
+AM 07:25 — Mannanthala — PM 04:05
+AM 07:30 — Mannanthala Press — PM 04:00
+AM 07:35 — Maruthoor — PM 03:55
+AM 07:40 — Mukkola — PM 03:50
+AM 07:45 — Kottamugal — PM 03:45
+AM 07:50 — Sep Jn — PM 03:40
+AM 07:55 — Nalanchira — PM 03:35
+AM 08:00 — Paruthippara — PM 03:30
+AM 08:05 — Kesavadasapuram — PM 03:25
+AM 08:10 — Idiyadikkode Temple — PM 03:20
+AM 08:15 — Pulayanar Kottah — PM 03:15
+AM 08:15 — Loyola — PM 03:15
+
+BUS 12 (Xavier — 73562 20136)
+AM 07:05 — Loyola — PM 04:15
+AM 07:35 — General Hospital — PM 04:00
+AM 07:35 — Vanchiyoor — PM 03:55
+AM 07:40 — Pattoor Church — PM 03:50
+AM 07:40 — EMS Nagar — PM 03:55
+AM 07:45 — Moolavilakam — PM 03:50
+AM 07:50 — Thampuranmukku — PM 03:45
+AM 07:50 — Gowreesapattom — PM 03:40
+AM 07:50 — Kottara Lane — PM 03:35
+AM 07:55 — GG Hospital — PM 03:30
+AM 08:00 — Puthupalli Lane — PM 03:25
+AM 08:15 — Loyola — PM 03:15
+
+BUS 13 (Thomas John — 94472 04461)
+AM 07:00 — Loyola — PM 04:25
+AM 07:30 — Rose Gardens — PM 04:00
+AM 07:35 — Silver Hills — PM 03:55
+AM 07:35 — Venpalavattom — PM 03:55
+AM 07:40 — Lords Hospital — PM 03:50
+AM 07:45 — Arasummoodu — PM 03:45
+AM 07:42 — Anayara L.P.S. — PM 03:45
+AM 07:45 — Kallummoodu — PM 03:40
+AM 07:45 — Pettah Market — PM 03:35
+AM 07:50 — Avittom Road — PM 03:30
+AM 08:15 — Loyola — PM 03:15
+
+BUS 14 (Pournami — 95446 26391)
+AM 07:00 — Loyola — PM 04:35
+AM 07:20 — Railway Bridge — PM 04:25
+AM 07:25 — Ambalathumukku — PM 04:00
+AM 07:40 — Palpu Road — PM 03:55
+AM 07:45 — Lulu Mall — PM 03:50
+AM 07:50 — Technopark Back Gate — PM 03:45
+AM 08:00 — Thrippadapuram — PM 03:35
+AM 08:15 — Loyola — PM 03:15
+
+BUS 15 (Archana — 99478 31060)
+AM 07:00 — Loyola — PM 04:30
+AM 07:20 — Vazhiyala — PM 04:00
+AM 07:35 — Peroorkada (Police Station) — PM 03:55
+AM 07:40 — Marappalam (Church) — PM 03:55
+AM 07:45 — Kesavadasapuram — PM 03:55
+AM 07:50 — Toll Jn — PM 03:50
+AM 07:55 — Kowdiar — PM 03:50
+AM 08:00 — Pandit Colony — PM 03:45
+AM 08:05 — Oolloor — PM 03:40
+AM 08:10 — Ulloor — PM 03:35
+AM 08:15 — Thiruvickramangalam — PM 03:30
+AM 08:15 — Latex — PM 03:25
+AM 08:15 — SNDP — PM 03:20
+AM 08:15 — Cheruvickal — PM 03:20
+AM 08:15 — Loyola — PM 03:15
+
+BUS 16 (Dhanya — 89214 84109)
+AM 07:00 — Loyola — PM 04:25
+AM 07:15 — Water Works — PM 04:10
+AM 07:20 — Sreemoolam Club — PM 04:05
+AM 07:30 — Police Training Ground — PM 04:05
+AM 07:30 — Mettukada — PM 04:00
+AM 07:30 — Bakery Junction — PM 03:55
+AM 07:35 — Nalumukku — PM 03:50
+AM 07:40 — Pallimukku — PM 03:45
+AM 07:45 — Nanthencode Jn — PM 03:45
+AM 07:50 — Panjappura — PM 03:40
+AM 07:55 — Panjab National Bank — PM 03:35
+AM 08:15 — Loyola — PM 03:15
+
+BUS 17 (Kavitha — 97473 59117)
+AM 07:05 — Loyola — PM 04:20
+AM 07:10 — Puthenpura — PM 04:15
+AM 07:15 — St Andrews — PM 04:10
+AM 07:20 — Marian Engg. College — PM 04:05
+AM 07:25 — Menonkuam — PM 03:55
+AM 07:30 — Jyothis — PM 03:55
+AM 07:35 — Kariyil Nalumukku — PM 03:55
+AM 07:40 — Railway Over Bridge — PM 03:45
+AM 07:45 — Kazhakottam (Police Station) — PM 03:45
+AM 07:50 — Ambalathinkara — PM 03:45
+AM 07:55 — Honda Service Station — PM 03:40
+AM 08:00 — Green Field Stadium — PM 03:40
+AM 08:05 — Karyavattom Jn — PM 03:35
+AM 08:10 — Gurumandiram — PM 03:30
+AM 08:15 — Pangappara H C — PM 03:25
+AM 08:15 — Mankuzhi — PM 03:20
+AM 08:15 — Chavadimukku — PM 03:15
+
+BUS 18 (Bindhu — 97453 39015)
+AM 06:55 — Loyola — PM 04:25
+AM 07:25 — SFS Cyber Gate — PM 04:05
+AM 07:27 — Sainik School — PM 04:00
+AM 07:30 — Chanthavila — PM 03:55
+AM 07:35 — Thonnakkal — PM 03:50
+AM 07:40 — Mangattukonam — PM 03:45
+AM 07:45 — Gandhipuram — PM 03:40
+AM 07:50 — Chavadimukku — PM 03:35
+AM 08:15 — Loyola — PM 03:15
+
+BUS 19 (Preetha — 79070 69390)
+AM 06:55 — Loyola — PM 04:30
+AM 07:05 — Kattayikonam — PM 04:25
+AM 07:10 — Ariyittouknam — PM 04:20
+AM 07:15 — Santhigiri Ashramam — PM 04:05
+AM 07:20 — Pothencode — PM 04:00
+AM 07:25 — Plamooodu — PM 03:50
+AM 07:30 — Aiyrooppara — PM 03:45
+AM 07:35 — Choorimoodu — PM 03:45
+AM 07:40 — Santhipuram — PM 03:40
+AM 07:45 — Njandoorkonam — PM 03:40
+AM 07:50 — Melemukku — PM 03:35
+AM 07:55 — Powdikonam — PM 03:30
+AM 08:00 — Societyumukku — PM 03:25
+AM 08:05 — Kattavila — PM 03:20
+AM 08:10 — Chellamangalam — PM 03:20
+AM 08:15 — Kariyam — PM 03:15
+AM 08:15 — Loyola — PM 03:15
+
+BUS 20 (Renjini — 98477 39257)
+AM 07:35 — Loyola — PM 03:55
+AM 07:45 — MGM — PM 03:45
+AM 07:55 — Kazhakuttom Jn — PM 03:35
+AM 08:15 — Loyola — PM 03:15
+
+BUS 21 (Sheeja — 95449 40473)
+AM 07:00 — Loyola — PM 04:15
+AM 07:05 — Mangalapuram — PM 04:10
+AM 07:10 — Pallippuram — PM 04:05
+AM 07:15 — Kaniyapuram — PM 04:00
+AM 07:20 — Vetturoad — PM 03:55
+AM 07:25 — Technopark (Gate No. 3) — PM 03:55
+AM 07:30 — Attinkuzhy — PM 03:55
+AM 07:35 — Mukkolackal — PM 03:50
+AM 07:40 — Kulathoor Jn — PM 03:45
+AM 08:15 — Loyola — PM 03:15
+
+BUS 22 (Remya — 90486 37266)
+AM 07:15 — Loyola — PM 04:10
+AM 07:20 — Karyavattom — PM 03:50
+AM 07:25 — LNCP — PM 03:45
+AM 07:30 — Kurisady Jn — PM 03:45
+AM 07:35 — Pullannivila — PM 03:45
+AM 07:40 — Thandithala — PM 03:45
+AM 07:45 — Andoorkonam — PM 03:41
+AM 07:50 — Chettikunnam — PM 03:40
+AM 07:55 — Pothencode — PM 03:40
+AM 08:00 — Aniyoor Jn — PM 03:40
+AM 08:05 — Madanvazhanthy — PM 03:40
+AM 08:10 — Udayagiri — PM 03:35
+AM 08:15 — Vencodue — PM 03:35
+AM 08:15 — Chekkalamukku — PM 03:15
+AM 08:15 — Loyola — PM 03:15
+
+BUS 23 (Subha — 85470 83257)
+AM 07:00 — Loyola — PM 04:10
+AM 07:05 — Alathara — PM 04:05
+AM 07:10 — NISH — PM 04:00
+AM 07:15 — Arasumoodu Jn — PM 03:55
+AM 07:20 — Monvila Jn — PM 03:50
+AM 07:25 — Emaus Church — PM 03:45
+AM 08:15 — Loyola — PM 03:15
+
+— — — — — — — — — — — — — — — — — — — —
+DOCUMENT MARKER: LOYOLA SCHOOL DIARY 2025–2026 (end of knowledgebase)
