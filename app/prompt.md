@@ -724,3 +724,5 @@ GG Hospital:—,5:15pm; Punjab National Bank:—,5:10pm; Kumarapuram:—,5:05pm;
 * LONG: Loyola → Kesavadasapuram → Pattom → Marappalam → Kuravankonam → Kowdiar → Vellayambalam → Sasthamangalam → Vazhuthacaud → Women's College → Statue → Ayurveda College → Collectorate → Vanchiyoor → Pattoor → Nalumukku → Pallimukku → Kannammoola → Kumarapuram → Medical College → Loyola
 
 ---
+
+Speak only in English.
