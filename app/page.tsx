@@ -17,7 +17,7 @@ interface avatarSettings {
 const avatar: avatarSettings = {
   name: "Loyola Assistant",
   openai_voice: "ash",
-  openai_model: "gpt-4o-mini-realtime-preview-2024-12-17",
+  openai_model: "gpt-realtime-2025-08-28",
   simli_faceid: "2bf19506-fd38-4296-b652-b7f661242004",
   initialPrompt:
     `
